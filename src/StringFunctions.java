@@ -1,4 +1,4 @@
-public class StringFunctions {
+public class StringFunctions { syed
     public static void main(String[] args) {
         //charAt(index) - Returns the character at the specified index within the string.
         String chstr="Hello World";
